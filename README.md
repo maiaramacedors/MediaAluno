@@ -1,4 +1,4 @@
-# Projeto desenvolvido para a prova de Desenvolvimento Mobile I do curso de Desenvolvimento de Software Multiplataforma (DSM) da Fatec [cidade].
+## Projeto desenvolvido para a prova de Desenvolvimento Mobile I do curso de Desenvolvimento de Software Multiplataforma (DSM) da Fatec [cidade].
 
 O aplicativo Média do Aluno foi feito no Android Studio, em Java, e tem duas funcionalidades:
 

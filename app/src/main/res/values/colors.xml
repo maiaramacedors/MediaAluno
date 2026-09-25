@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_principal">#23338C</color>
+    <color name="verde_cadastro">#14665E</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+    <color name="fundo_resultado">#C5CEF2</color>
+    <color name="verde_sucesso">#1B5E3A</color>
+    <color name="fundo_sucesso">#C8E6D2</color>
+</resources>

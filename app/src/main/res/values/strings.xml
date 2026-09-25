@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MediaAluno</string>
+    <!-- Tela inicial -->
+    <string name="titulo_inicio">Média do Aluno</string>
+    <string name="bem_vindo">Bem-vindo(a)!</string>
+    <string name="descricao_app">Aplicativo para calcular a média das notas e cadastrar os dados do aluno.</string>
+    <string name="btn_calcular">Calcular Média</string>
+    <string name="btn_cadastrar">Cadastrar Aluno</string>
+
+    <!-- Tela de cálcular a média do aluno -->
+    <string name="titulo_calcular">Calcular Média</string>
+    <string name="digite_notas">Digite as notas</string>
+    <string name="descricao_notas">Informe as notas do aluno e clique em calcular para ver a média.</string>
+    <string name="prova1">Prova 1:</string>
+    <string name="prova2">Prova 2:</string>
+    <string name="trabalho">Trabalho:</string>
+    <string name="atividade">Atividade:</string>
+    <string name="media_final">Média final: %.2f</string>
+    <string name="aviso_notas">Preencha todas as notas!</string>
+
+    <!-- Tela de cadastro do aluno -->
+    <string name="titulo_cadastro">Cadastro Aluno</string>
+    <string name="preencha_dados">Preencha os dados</string>
+    <string name="salvar_aluno">Salvar Aluno</string>
+    <string name="sucesso">Dados salvos com sucesso!</string>
+    <string name="aviso_cadastro">Preencha todos os dados!</string>
+</resources>
